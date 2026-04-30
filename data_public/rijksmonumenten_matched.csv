@@ -1,0 +1,49 @@
+monument_id,monument_name,address_raw,city,postcode_norm,province_name,function_type,registration_date,pand_id,bouwjaar,matched_to_bag
+477286,HTO-gebouw,Rijswijkseweg 340,'s-Gravenhage,2516HM,Zuid-Holland,Tehuis,1994-10-18,0518100000270854,1925,t
+477286,HTO-gebouw,Rijswijkseweg 342 A,'s-Gravenhage,2516HM,Zuid-Holland,Tehuis,1994-10-18,0518100000270854,1925,t
+477286,HTO-gebouw,Rijswijkseweg 342 B,'s-Gravenhage,2516HM,Zuid-Holland,Tehuis,1994-10-18,0518100000270854,1925,t
+477286,HTO-gebouw,Rijswijkseweg 342 C,'s-Gravenhage,2516HM,Zuid-Holland,Tehuis,1994-10-18,0518100000270854,1925,t
+483654,Oosterkerk,E. Thomassen à Thuessinklaan 1,Groningen,9713JP,Groningen,Kerk,1995-04-13,0014100010925169,1925,t
+485614,Rijks HBS,Kamerlingheplein 1,Groningen,9712TR,Groningen,Schoolgebouw,1995-04-13,0014100010924514,1868,t
+485614,Rijks HBS,Kamerlingheplein 10,Groningen,9712TR,Groningen,Schoolgebouw,1995-04-13,0014100010924514,1868,t
+485614,Rijks HBS,Kamerlingheplein 11,Groningen,9712TR,Groningen,Schoolgebouw,1995-04-13,0014100010924514,1868,t
+485614,Rijks HBS,Kamerlingheplein 12,Groningen,9712TR,Groningen,Schoolgebouw,1995-04-13,0014100010924514,1868,t
+485614,Rijks HBS,Kamerlingheplein 13,Groningen,9712TR,Groningen,Schoolgebouw,1995-04-13,0014100010924514,1868,t
+485614,Rijks HBS,Kamerlingheplein 2,Groningen,9712TR,Groningen,Schoolgebouw,1995-04-13,0014100010924514,1868,t
+485614,Rijks HBS,Kamerlingheplein 3,Groningen,9712TR,Groningen,Schoolgebouw,1995-04-13,0014100010924514,1868,t
+485614,Rijks HBS,Kamerlingheplein 4,Groningen,9712TR,Groningen,Schoolgebouw,1995-04-13,0014100010924514,1868,t
+485614,Rijks HBS,Kamerlingheplein 5,Groningen,9712TR,Groningen,Schoolgebouw,1995-04-13,0014100010924514,1868,t
+485614,Rijks HBS,Kamerlingheplein 6,Groningen,9712TR,Groningen,Schoolgebouw,1995-04-13,0014100010924514,1868,t
+485614,Rijks HBS,Kamerlingheplein 7,Groningen,9712TR,Groningen,Schoolgebouw,1995-04-13,0014100010924514,1868,t
+485614,Rijks HBS,Kamerlingheplein 8,Groningen,9712TR,Groningen,Schoolgebouw,1995-04-13,0014100010924514,1868,t
+485614,Rijks HBS,Kamerlingheplein 9,Groningen,9712TR,Groningen,Schoolgebouw,1995-04-13,0014100010924514,1868,t
+510065,Hillegonds Hoeve,Bennebroekerweg 521,Hoofddorp,2132MD,Noord-Holland,Boerderij(M1),1999-06-09,0394100000229399,1857,t
+512031,De Haer,Haerstraat 125,Oldenzaal,7573PA,Overijssel,Landhuis,1999-06-16,0173100000136177,1918,t
+512602,KRO-studio,Emmastraat 50,Hilversum,1213AL,Noord-Holland,Studio,2005-01-18,0402100001484923,1955,t
+512602,KRO-studio,Koningsstraat 5 A,Hilversum,1213AW,Noord-Holland,Studio,2005-01-18,0402100001484924,1955,t
+512602,KRO-studio,Koningsstraat 5 B,Hilversum,1213AW,Noord-Holland,Studio,2005-01-18,0402100001484924,1955,t
+512602,KRO-studio,Koningsstraat 5 C,Hilversum,1213AW,Noord-Holland,Studio,2005-01-18,0402100001484924,1955,t
+512602,KRO-studio,Koningsstraat 5 D,Hilversum,1213AW,Noord-Holland,Studio,2005-01-18,0402100001484924,1955,t
+512602,KRO-studio,Koningsstraat 5 E,Hilversum,1213AW,Noord-Holland,Studio,2005-01-18,0402100001484924,1955,t
+512602,KRO-studio,Koningsstraat 5 F,Hilversum,1213AW,Noord-Holland,Studio,2005-01-18,0402100001484924,1955,t
+512602,KRO-studio,Koningsstraat 5 G,Hilversum,1213AW,Noord-Holland,Studio,2005-01-18,0402100001484924,1955,t
+512602,KRO-studio,Koningsstraat 5 H,Hilversum,1213AW,Noord-Holland,Studio,2005-01-18,0402100001484924,1955,t
+512602,KRO-studio,Koningsstraat 5 J,Hilversum,1213AW,Noord-Holland,Studio,2005-01-18,0402100001484924,1955,t
+512602,KRO-studio,Koningsstraat 5 K,Hilversum,1213AW,Noord-Holland,Studio,2005-01-18,0402100001484924,1955,t
+512602,KRO-studio,Koningsstraat 5 L,Hilversum,1213AW,Noord-Holland,Studio,2005-01-18,0402100001484924,1955,t
+512602,KRO-studio,Koningsstraat 5 M,Hilversum,1213AW,Noord-Holland,Studio,2005-01-18,0402100001484924,1955,t
+512602,KRO-studio,Koningsstraat 7 A,Hilversum,1213AW,Noord-Holland,Studio,2005-01-18,0402100001484924,1955,t
+512602,KRO-studio,Koningsstraat 7 B,Hilversum,1213AW,Noord-Holland,Studio,2005-01-18,0402100001484924,1955,t
+512602,KRO-studio,Koningsstraat 7 C,Hilversum,1213AW,Noord-Holland,Studio,2005-01-18,0402100001484924,1955,t
+512602,KRO-studio,Koningsstraat 7 D,Hilversum,1213AW,Noord-Holland,Studio,2005-01-18,0402100001484924,1955,t
+512602,KRO-studio,Koningsstraat 7 E,Hilversum,1213AW,Noord-Holland,Studio,2005-01-18,0402100001484924,1955,t
+516912,Anna Jacoba,Burgemeestersplein 3,Arnhem,6814DM,Gelderland,Woonhuis,2000-09-19,0202100000235375,1904,t
+518358,Liberty,Kerkstraat 45,Amsterdam,1017GB,Noord-Holland,Bedrijfsruimte,2001-12-12,0363100012169630,1927,t
+518358,Liberty,Kerkstraat 47,Amsterdam,1017GB,Noord-Holland,Bedrijfsruimte,2001-12-12,0363100012169630,1927,t
+518358,Liberty,Kerkstraat 49,Amsterdam,1017GB,Noord-Holland,Bedrijfsruimte,2001-12-12,0363100012169630,1927,t
+518789,St. Theresia,Carmelitessenstraat 2,Eindhoven,5652EW,Noord-Brabant,Kerk,2002-08-05,0772100001009193,1927,t
+523781,Hoogstraten,Spoorstraat 1,Nijkerk,3862AC,Gelderland,Woonhuis,2002-04-22,0267100000004673,1911,t
+524302,Sportfondsenbad Rotterdam Noord,Van Maanenstraat 10,Rotterdam,3038CZ,Zuid-Holland,Zwembad,2002-06-24,0599100000701625,1936,t
+524302,Sportfondsenbad Rotterdam Noord,Van Maanenstraat 6 A,Rotterdam,3038CZ,Zuid-Holland,Zwembad,2002-06-24,0599100000701625,1936,t
+524302,Sportfondsenbad Rotterdam Noord,Van Maanenstraat 8,Rotterdam,3038CZ,Zuid-Holland,Zwembad,2002-06-24,0599100000701625,1936,t
+526574,Woonhuis,Oude Haven 11,Schoonhoven,2871DG,Zuid-Holland,Woonhuis(K),2002-09-30,0608100001224971,1870,t
