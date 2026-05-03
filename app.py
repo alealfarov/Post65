@@ -23,10 +23,33 @@ POST65_CSV = DATA_DIR / "post65_nominated_buildings.csv"
 
 @st.cache_data(show_spinner=False)
 def load_csv(path: Path) -> pd.DataFrame:
+    """
+    Robust CSV loader for files exported from PostgreSQL, Excel, or Dutch locale tools.
+    It auto-detects comma vs semicolon separators and skips fully empty rows.
+    """
     if not path.exists():
         return pd.DataFrame()
+
     try:
-        return pd.read_csv(path)
+        # Read a small sample to detect delimiter. Your Post65 file is semicolon-separated.
+        sample = path.read_text(encoding="utf-8-sig", errors="replace")[:4096]
+        first_line = sample.splitlines()[0] if sample.splitlines() else ""
+        sep = ";" if first_line.count(";") > first_line.count(",") else ","
+
+        df = pd.read_csv(
+            path,
+            sep=sep,
+            encoding="utf-8-sig",
+            engine="python",
+            on_bad_lines="skip",
+        )
+
+        # Remove empty rows such as ;;;;;;;;;;;;
+        df = df.dropna(how="all")
+        df = df.loc[~df.astype(str).apply(lambda row: all(x.strip() in ["", "nan", "None"] for x in row), axis=1)]
+        df.columns = [str(c).strip() for c in df.columns]
+        return df
+
     except Exception as e:
         st.warning(f"Could not read {path.name}: {e}")
         return pd.DataFrame()
