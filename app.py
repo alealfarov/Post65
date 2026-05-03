@@ -313,7 +313,7 @@ with tabs[4]:
     st.subheader("Heritage status: national vs municipal")
     st.markdown(
         """
-This tab separates the semantic layers requested by Ana.
+
 
 - **BAG building stock**: construction years, counts, and optional building locations.
 - **Rijksmonumenten**: nationally protected monuments.
